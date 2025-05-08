@@ -1,4 +1,4 @@
-baseURL = 'https://jacc.club'
+baseURL = 'https://jacc.club/'
 languageCode = 'en-us'
 title = 'Japanese Cultural Club'
 theme = 'ananke'
